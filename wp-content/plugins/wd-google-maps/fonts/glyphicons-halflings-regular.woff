@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=http://kweejack.wpengine.com/wp-content/plugins/wd-google-maps/fonts/glyphicons-halflings-regular.woff">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "http://kweejack.wpengine.com/wp-content/plugins/wd-google-maps/fonts/glyphicons-halflings-regular.woff";
+		</script>
+
+		<p>You are being redirected to <a href="http://kweejack.wpengine.com/wp-content/plugins/wd-google-maps/fonts/glyphicons-halflings-regular.woff">http://kweejack.wpengine.com/wp-content/plugins/wd-google-maps/fonts/glyphicons-halflings-regular.woff</a></p>
+	</body>
+</html>
